@@ -36,6 +36,7 @@
      - Conventions (e.g., naming, workflow)
      - When and how to merge branches
      - Tracking changes effectively
+	 - We are still before lunch break?!
 
 ---
 
